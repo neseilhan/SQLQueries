@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d76600-b7ba-4174-826f-74ee8348816b" name="Changes" comment="" />
+    <list default="true" id="e6d76600-b7ba-4174-826f-74ee8348816b" name="Changes" comment="files created.">
+      <change afterPath="$PROJECT_DIR$/SQLQueries" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/neseilhan/SQLQueries.git",
+    "accountId": "90ad719b-e5de-4515-8775-e3965f66c67c"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -42,6 +54,19 @@
       <option name="presentableId" value="Default" />
       <updated>1717367890203</updated>
     </task>
+    <task id="LOCAL-00001" summary="files created.">
+      <option name="closed" value="true" />
+      <created>1717368465394</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717368465394</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="files created." />
+    <option name="LAST_COMMIT_MESSAGE" value="files created." />
   </component>
 </project>
