@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d76600-b7ba-4174-826f-74ee8348816b" name="Changes" comment="sql file created.">
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e6d76600-b7ba-4174-826f-74ee8348816b" name="Changes" comment="SQL Queries 2,3,4 completed." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,12 +81,29 @@
       <option name="project" value="LOCAL" />
       <updated>1717369400313</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="SQL Queries 2,3,4 completed.">
+      <option name="closed" value="true" />
+      <created>1717430399428</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717430399428</updated>
+    </task>
+    <task id="LOCAL-00005" summary="SQL Queries 2,3,4 completed.">
+      <option name="closed" value="true" />
+      <created>1717430425508</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717430425508</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="files created." />
     <MESSAGE value="sql file created." />
-    <option name="LAST_COMMIT_MESSAGE" value="sql file created." />
+    <MESSAGE value="SQL Queries 2,3,4 completed." />
+    <option name="LAST_COMMIT_MESSAGE" value="SQL Queries 2,3,4 completed." />
   </component>
 </project>
