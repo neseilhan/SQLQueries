@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d76600-b7ba-4174-826f-74ee8348816b" name="Changes" comment="SQL Queries 5,6,7 completed.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e6d76600-b7ba-4174-826f-74ee8348816b" name="Changes" comment="SQL Queries 8 completed." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717446407548</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="SQL Queries 8 completed.">
+      <option name="closed" value="true" />
+      <created>1717511713540</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717511713540</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -115,6 +121,7 @@
     <MESSAGE value="sql file created." />
     <MESSAGE value="SQL Queries 2,3,4 completed." />
     <MESSAGE value="SQL Queries 5,6,7 completed." />
-    <option name="LAST_COMMIT_MESSAGE" value="SQL Queries 5,6,7 completed." />
+    <MESSAGE value="SQL Queries 8 completed." />
+    <option name="LAST_COMMIT_MESSAGE" value="SQL Queries 8 completed." />
   </component>
 </project>
